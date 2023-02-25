@@ -1,5 +1,5 @@
 # *Version Control System (GIT)*
-## What is Version Control System (VCS) ?
+## *What is Version Control System (VCS) ?*
 
  1. Version control systems are software tools that help **software teams manage changes to source code over time.**
 
@@ -12,7 +12,7 @@
 5. **“Git”** is a software tool that enables version control of the source code. **Git helps to: Track different versions of the same file.**
 
 
- ## Why is version control used?
+ ## *Why is version control used?*
 ***
 Version control  serves as a **safety net to protect the source code from irreparable harm,** giving the development team the freedom to experiment **without fear of causing damage or creating code conflicts.**
 
